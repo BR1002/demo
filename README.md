@@ -1,4 +1,4 @@
 # demo
 my first repository
 <br>
-Author - Rohit buchkul
+Author - Rohit
